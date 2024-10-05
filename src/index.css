@@ -1,11 +1,11 @@
 :root {
-  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-family: 'Inter', system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  background-color: gray;
+  background-color: #f0f0f0;
   height: 100vh;
   overflow: hidden;
 }
@@ -16,5 +16,13 @@ body, html {
   display: flex;
   justify-content: center;
   align-items: center;
+  padding: 20px;
+  background: linear-gradient(135deg, #e0e0e0, #ffffff);
+}
+
+@media (max-width: 600px) {
+  body, html {
+    padding: 10px;
+  }
 }
 
