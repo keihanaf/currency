@@ -4,6 +4,8 @@
 
 This is a simple Currency Converter application built with React. It allows users to convert amounts between different currencies using real-time exchange rates. The application is designed to be user-friendly and responsive, making it easy for users to perform currency conversions on any device.
 
+<h3><a href="https://currency-converter-chi-opal.vercel.app/">View Currency Converter</a></h3>
+
 ## Features
 
 - **Select Currencies**: Users can choose the currencies they want to convert from and to, with a variety of options available.
