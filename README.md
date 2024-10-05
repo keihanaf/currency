@@ -40,7 +40,9 @@ This is a simple Currency Converter application built with React. It allows user
    ```
 2. Open your browser and go to `http://localhost:5173` to view the application.
 
-<h3 align="left">Languages and Tools:</h3>
+
+## Languages and Tools
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,javascript,vite,css,vscode" />
